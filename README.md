@@ -1,8 +1,6 @@
 # KernelAdiutor
 
-[![Build Status](https://travis-ci.org/yoinx/kernel_adiutor.svg?branch=master)](https://travis-ci.org/yoinx/kernel_adiutor)
-
-![Screenshot](https://raw.githubusercontent.com/Grarak/KernelAdiutor/master/screenshots/screenshot.png)
+[![Build Status](https://travis-ci.org/ngengs/android_packages_apps_KernelAdiutorMod.svg?branch=master)](https://travis-ci.org/ngengs/android_packages_apps_KernelAdiutorMod)
 
 * [Join Google+ Community](https://plus.google.com/communities/103764146519204710337)
 
